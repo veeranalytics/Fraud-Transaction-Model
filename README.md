@@ -1,2 +1,2 @@
 # Fraudulent-Transactions-Model
-Fraudulent Card Transactions Model in Banking
+Deep Learning Model to identify fraudulent card Transactions.
